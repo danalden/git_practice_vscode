@@ -3,3 +3,4 @@ Edited
 Edited in VS Code 1st time
 Added a very important change
 Added a cool feature
+Hey, we fixed the bug!

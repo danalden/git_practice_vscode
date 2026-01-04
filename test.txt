@@ -1,3 +1,4 @@
 Hello!
 Edited
 Edited in VS Code 1st time
+Hey, we fixed the bug!
